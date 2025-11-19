@@ -12,7 +12,7 @@ addAsc.o : addAsc.c
         gcc -c addAsc.c
 addDes.o : addDes.c
         gcc -c addDes.c
-delete.o : deleteAll.c
+deleteAll.o : deleteAll.c
         gcc -c deleteAll.c
 save.o : save.c
         gcc -c save.c
