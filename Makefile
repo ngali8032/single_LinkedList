@@ -18,9 +18,9 @@ save.o : save.c
         gcc -c save.c
 sync.o : sync.c
         gcc -c sync.c
-reverse.0 : reverse.c
+reverse.o : reverse.c
         gcc -c reverse.c
 deleteANode.o : deleteANode.c
         gcc -c deleteANode.c
-findMiddle.0 : findMiddle.c
+findMiddle.o : findMiddle.c
         gcc -c findMiddle.c
